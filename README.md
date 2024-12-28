@@ -5,10 +5,10 @@ An interactive power BI dashboard on Amazon sales analysis # power-BI-amazon-sal
 Created an interactive dashboard and published it online for public viewing. Learned how to connect to different data sources such as Excel, text files, and Google Sheets. Created a variety of charts including bar charts, line charts, maps, Heat maps, and text tables to present the insights. 
 
 ## Tools and Techniques
-Microsoft Power BI: The primary tool used for data analysis and report creation.
-Power Query: Used for summarizing, analyzing, exploring, and presenting data. Utilized for data connection and transformation.
-PowerPivot: Enhanced data analysis and model creation.
-Data Modeling using DAX Formulas: Implemented to create complex data models and calculations.
+- Microsoft Power BI: The primary data analysis and report creation tool.
+- Power Query: Used for summarizing, analyzing, exploring, and presenting data. Utilized for data connection and transformation.
+- PowerPivot: Enhanced data analysis and model creation.
+- Data Modeling using DAX Formulas: Implemented to create complex data models and calculations.
 
 ## Reports Created
 - [Live interactive dashboard](https://1drv.ms/x/c/9b04f9bec11b32e3/ETMyP5L4TBNCjZCVoNqpF2MB1Xqhvgv8eYwPYDZao0mY2g?e=ilUECf): You can interact with live dashboard.
